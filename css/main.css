@@ -170,7 +170,7 @@ section {
 }
 
 .carousel-fade .carousel-inner .item {
-  opacity: 0;
+  opacity: 1;
   -webkit-transition-property: opacity;
   transition-property: opacity;
   background-repeat: no-repeat;
